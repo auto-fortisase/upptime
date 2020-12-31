@@ -6,7 +6,7 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: FortiSASE SIA Stage
     url: https://portal.stage.fortisase.com/
-  - name: FortiSASE SIA Porduction
+  - name: FortiSASE SIA Production
     url: https://portal.prod.fortisase.com/
 
 status-website:

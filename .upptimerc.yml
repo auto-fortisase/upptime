@@ -4,23 +4,27 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: FortiSASE Stage Protal
+  - name: FortiSASE SIA Stage
     url: https://portal.stage.fortisase.com/
-  - name: FortiSASE Pord Protal
+  - name: FortiSASE SIA Porduction
     url: https://portal.prod.fortisase.com/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: demo.upptime.js.org
+  cname: status.fortisase.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/auto-fortisase/upptime/master/assets/icons/fortinet.png
-  name: FortiSASE Protal Upptime
-  #introTitle: '**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub.'
-  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: FortiSASE SIA Status
+  introTitle: "**FortiSASE SIA** services status"
+  introMessage: This is a service status page which uses **real-time** data to display service status.
   navbar:
     - title: Status
       href: /
+    - title: FortiSASE SIA
+      href: https://portal.prod.fortisase.com/
+    - title: Contact
+      href: https://www.fortinet.com/support/contact
    # - title: GitHub
    #   href: https://github.com/$OWNER/$REPO
 # Upptime also supports notifications, assigning issues, and more

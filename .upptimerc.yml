@@ -11,7 +11,7 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  #cname: status.fortisase.com
+  cname: status.fortisase.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/auto-fortisase/upptime/master/assets/icons/fortinet.png

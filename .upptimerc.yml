@@ -20,8 +20,8 @@ sites:
     __dangerous__insecure: true
   - name: ForitStack API Canada West (Vancouver)
     url: https://fortistackapi-nova-west.fortisase.com:5000/v3
-  - name: FortiStack API Canada East (Ottawa)
-    url: https://fortistackapi-nova-east.fortisase.com:5000/v3
+#   - name: FortiStack API Canada East (Ottawa)
+#     url: https://fortistackapi-nova-east.fortisase.com:5000/v3
   - name: FortiStack API France (Valbonne)
     url: https://fortistackapi-nova-fr.fortisase.com:5000/v3
   - name: FortiStack API Japan (Tokyo)

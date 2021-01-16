@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 300,
-    "timeDay": 410,
+    "time": 303,
+    "timeDay": 402,
     "timeWeek": 373,
-    "timeMonth": 300,
-    "timeYear": 300,
+    "timeMonth": 303,
+    "timeYear": 303,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 435,
-    "timeWeek": 398,
-    "timeMonth": 315,
-    "timeYear": 315,
+    "time": 318,
+    "timeDay": 417,
+    "timeWeek": 394,
+    "timeMonth": 318,
+    "timeYear": 318,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 386,
-    "timeDay": 386,
-    "timeWeek": 386,
-    "timeMonth": 386,
-    "timeYear": 386,
+    "time": 372,
+    "timeDay": 372,
+    "timeWeek": 372,
+    "timeMonth": 372,
+    "timeYear": 372,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/fortistackapi-nova-east.fortisase.com",
     "slug": "forti-stack-api-canada-east-ottawa",
     "status": "down",
-    "uptime": "0.15%",
-    "uptimeDay": "0.15%",
-    "uptimeWeek": "0.15%",
-    "uptimeMonth": "0.15%",
-    "uptimeYear": "0.15%",
-    "time": 1675,
-    "timeDay": 1675,
-    "timeWeek": 1675,
-    "timeMonth": 1675,
-    "timeYear": 1675,
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
+    "time": 1200,
+    "timeDay": 1200,
+    "timeWeek": 1200,
+    "timeMonth": 1200,
+    "timeYear": 1200,
     "dailyMinutesDown": {
-      "2021-01-16": 13
+      "2021-01-16": 25
     }
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 383,
-    "timeDay": 383,
-    "timeWeek": 383,
-    "timeMonth": 383,
-    "timeYear": 383,
+    "time": 395,
+    "timeDay": 395,
+    "timeWeek": 395,
+    "timeMonth": 395,
+    "timeYear": 395,
     "dailyMinutesDown": {}
   },
   {
@@ -102,31 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 647,
-    "timeDay": 647,
-    "timeWeek": 647,
-    "timeMonth": 647,
-    "timeYear": 647,
+    "time": 622,
+    "timeDay": 622,
+    "timeWeek": 622,
+    "timeMonth": 622,
+    "timeYear": 622,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "THIS IS A TEST",
-    "url": "https://down.fortisase.com/",
-    "icon": "https://favicons.githubusercontent.com/down.fortisase.com",
-    "slug": "this-is-a-test",
-    "status": "down",
-    "uptime": "6.05%",
-    "uptimeDay": "6.05%",
-    "uptimeWeek": "6.05%",
-    "uptimeMonth": "6.05%",
-    "uptimeYear": "6.05%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-01-16": 0
-    }
   }
 ]

@@ -4,10 +4,18 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: FortiSASE SIA Stage
-    url: https://portal.stage.fortisase.com/
   - name: FortiSASE SIA Production
     url: https://portal.prod.fortisase.com/
+  - name: FortiSASE SIA Stage
+    url: https://portal.stage.fortisase.com/
+  - name: ForitStack API Canada West (BC)
+    url: https://fortistackapi-nova-west.fortisase.com:5000/v3
+  - name: FortiStack API Canada East (Ottawa)
+    url: https://fortistackapi-nova-east.fortisase.com:5000/v3
+  - name: FortiStack API France (Valbonne)
+    url: https://fortistackapi-nova-fr.fortisase.com:5000/v3
+  - name: FortiStack API Japan (Tokyo)
+    url: https://fortistackapi-nova-jp.fortisase.com:5000/v3
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

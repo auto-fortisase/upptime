@@ -4,9 +4,21 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: FortiSASE SIA
+  - name: FortiSASE SIA Cloud
     url: https://portal.prod.fortisase.com/
-  - name: ForitStack API Canada West (BC)
+  - name: FortiSASE SIA Edge Canada West (Vancouver)
+    url: https://ipsecgateway-fos001-region1.prod.fortisase.com:5443/
+    __dangerous__insecure: true
+  - name: FortiSASE SIA Edge Canada East (Ottawa)
+    url: https://ipsecgateway-fos001-region2.prod.fortisase.com:5443/
+    __dangerous__insecure: true
+  - name: FortiSASE SIA Edge France (Valbonne)
+    url: https://ipsecgateway-fos001-region3.prod.fortisase.com:5443/
+    __dangerous__insecure: true
+  - name: FortiSASE SIA Edge Japan (Tokyo)
+    url: https://ipsecgateway-fos001-region4.prod.fortisase.com:5443/
+    __dangerous__insecure: true
+  - name: ForitStack API Canada West (Vancouver)
     url: https://fortistackapi-nova-west.fortisase.com:5000/v3
   - name: FortiStack API Canada East (Ottawa)
     url: https://fortistackapi-nova-east.fortisase.com:5000/v3

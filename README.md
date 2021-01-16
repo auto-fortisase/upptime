@@ -1,4 +1,4 @@
-# [📈 Live Status](https://auto-fortisase.github.io/uptime): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://status.fortisase.com/): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [auto-fortisase](https://auto-fortisase.github.io/uptime), powered by [Upptime](https://github.com/upptime/upptime).
 

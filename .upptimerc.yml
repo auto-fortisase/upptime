@@ -45,7 +45,8 @@ status-website:
       href: https://portal.prod.fortisase.com/
     - title: Contact
       href: https://www.fortinet.com/support/contact
-   # - title: GitHub
-   #   href: https://github.com/$OWNER/$REPO
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+assignees:
+  - WZ

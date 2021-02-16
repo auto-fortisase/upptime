@@ -22,9 +22,9 @@
     "url": "https://mgmt-fos001-region1.prod.fortisase.com:10443/",
     "icon": "https://favicons.githubusercontent.com/mgmt-fos001-region1.prod.fortisase.com",
     "slug": "forti-sase-sia-edge-canada-west-vancouver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,26 +33,28 @@
     "timeWeek": 406,
     "timeMonth": 435,
     "timeYear": 432,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-16": 0
+    }
   },
   {
     "name": "FortiSASE SIA Edge Canada East (Ottawa)",
     "url": "https://mgmt-fos001-region2.prod.fortisase.com:10443/",
     "icon": "https://favicons.githubusercontent.com/mgmt-fos001-region2.prod.fortisase.com",
     "slug": "forti-sase-sia-edge-canada-east-ottawa",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 341,
-    "timeDay": 447,
-    "timeWeek": 335,
-    "timeMonth": 342,
-    "timeYear": 341,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "91.60%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.73%",
+    "time": 344,
+    "timeDay": 445,
+    "timeWeek": 348,
+    "timeMonth": 345,
+    "timeYear": 344,
     "dailyMinutesDown": {
-      "2021-02-16": 0
+      "2021-02-16": 121
     }
   },
   {
@@ -118,11 +120,11 @@
     "icon": "https://favicons.githubusercontent.com/fortistackapi-nova-east.fortisase.com",
     "slug": "forti-stack-api-canada-east-ottawa",
     "status": "up",
-    "uptime": "93.00%",
+    "uptime": "93.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.96%",
-    "uptimeYear": "93.00%",
+    "uptimeMonth": "93.24%",
+    "uptimeYear": "93.02%",
     "time": 281,
     "timeDay": 277,
     "timeWeek": 226,

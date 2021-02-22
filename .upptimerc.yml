@@ -18,7 +18,7 @@ sites:
   - name: FortiSASE SIA Edge Japan (Tokyo)
     url: https://mgmt-fos001-region4.prod.fortisase.com:10443/
     __dangerous__insecure: true
-  - name: ForitStack API Canada West (Vancouver)
+  - name: FortiStack API Canada West (Vancouver)
     url: https://fortistackapi-nova-west.fortisase.com:5000/v3
   - name: FortiStack API Canada East (Ottawa)
     url: https://fortistackapi-nova-east.fortisase.com:5000/v3

@@ -46,5 +46,6 @@ status-website:
       href: https://portal.prod.fortisase.com/
     - title: Contact
       href: https://www.fortinet.com/support/contact
+  css: "section.live-status > article > div:last-child { display: none;}"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

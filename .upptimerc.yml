@@ -58,7 +58,7 @@ status-website:
           clearInterval(intervalTimer);
           console.log('cleared');
         }
-      }, 500);
+      }, 100);
       setTimeout(() => {
         clearInterval(intervalTimer);
       }, 20000);

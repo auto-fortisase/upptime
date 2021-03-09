@@ -49,12 +49,21 @@ status-website:
   css: "section.live-status > article > div:last-child { display: none;}"
   js: |
     window.onload = function() {
-    setTimeout(() => {
-      const aLinks = document.querySelectorAll('section.live-status > article > h4 > a');
-      for(let a of aLinks) a.setAttribute('href', '')
-    }, 2000)
-    document.querySelector('footer p').innerHTML =
-      'This page is powered by <a href="https://upptime.js.org">Upptime</a>';
+      const intervalTimer = setInterval(() => {
+        const aLinks = document.querySelectorAll(
+          'section.live-status > article > h4 > a'
+        );
+        if(aLinks.length) {
+          for (let a of aLinks) a.setAttribute('href', '');
+          clearInterval(intervalTimer);
+          console.log('cleared');
+        }
+      }, 500);
+      setTimeout(() => {
+        clearInterval(intervalTimer);
+      }, 20000);
+      document.querySelector('footer p').innerHTML =
+        'This page is powered by <a href="https://upptime.js.org">Upptime</a>';
     }
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

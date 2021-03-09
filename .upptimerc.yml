@@ -58,10 +58,7 @@ status-website:
           clearInterval(intervalTimer);
           console.log('cleared');
         }
-      }, 100);
-      setTimeout(() => {
-        clearInterval(intervalTimer);
-      }, 20000);
+      }, 500);
       document.querySelector('footer p').innerHTML =
         'This page is powered by <a href="https://upptime.js.org">Upptime</a>';
     }

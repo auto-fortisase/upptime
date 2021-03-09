@@ -55,7 +55,6 @@ status-website:
         );
         if(aLinks.length) {
           for (let a of aLinks) a.setAttribute('href', '');
-          clearInterval(intervalTimer);
           console.log('cleared');
         }
       }, 500);

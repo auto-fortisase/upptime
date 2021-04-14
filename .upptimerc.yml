@@ -46,7 +46,7 @@ status-website:
       href: https://portal.prod.fortisase.com/
     - title: Contact
       href: https://www.fortinet.com/support/contact
-  css: "section.live-status > article > div:last-child { display: none;}"
+  css: "section.live-status > article > div:last-child { display: none;} body { background-color: rgb(31, 31, 3); color: rgb(200,200,200); } nav { border-color: none; background-color: rgb(70, 72, 114); }"
   js: |
     window.onload = function() {
       setInterval(() => {

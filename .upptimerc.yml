@@ -46,7 +46,7 @@ status-website:
       href: https://portal.prod.fortisase.com/
     - title: Contact
       href: https://www.fortinet.com/support/contact
-  css: "section.live-status > article > div:last-child { display: none;} body { background-color: rgb(31, 31, 3); color: rgb(200,200,200); } nav { border: none; background-color: rgb(70, 72, 114); } article { background-color: #282828; border: none; }"
+  css: "@font-face {font-family: Lato; src: url('https://github.com/auto-fortisase/upptime/blob/master/assets/icons/fonts/lato-regular.woff?raw=true')} section.live-status > article > div:last-child { display: none;} body { background-color: rgb(31, 31, 3); color: rgb(200,200,200); } nav { border: none; background-color: rgb(70, 72, 114); } article { background-color: #282828; border: none; }"
   js: |
     window.onload = function() {
       setInterval(() => {

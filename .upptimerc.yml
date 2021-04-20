@@ -49,6 +49,7 @@ status-website:
   css: "@font-face {font-family: Lato; src: url('https://github.com/auto-fortisase/upptime/blob/master/assets/icons/fonts/lato-regular.woff?raw=true')} section.live-status > article > div:last-child { display: none;} body { background-color: rgb(31, 31, 3); color: rgb(200,200,200); } nav { border: none; background-color: rgb(70, 72, 114); } article { background-color: #282828; border: none; }"
   js: |
     window.onload = function() {
+      
       setInterval(() => {
         const aLinks = document.querySelectorAll(
           'section.live-status > article > h4 > a'
@@ -62,6 +63,7 @@ status-website:
           'This page is powered by <a href="https://upptime.js.org">Upptime</a>';
       }, 1000);
       setTimeout(() => clearInterval(intervalTimer), 60000);
+      document.querySelector('a.logo').setAttribute('href', 'https://www.fortinet.com/products/sase');
     }
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

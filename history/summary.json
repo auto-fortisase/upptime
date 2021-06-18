@@ -156,17 +156,17 @@
     "url": "https://fortistackapi-nova-jp.fortisase.com:5000/v3",
     "icon": "https://favicons.githubusercontent.com/fortistackapi-nova-jp.fortisase.com",
     "slug": "forti-stack-api-japan-tokyo",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 521,
-    "timeDay": 1715,
-    "timeWeek": 710,
-    "timeMonth": 538,
-    "timeYear": 521,
+    "time": 520,
+    "timeDay": 1265,
+    "timeWeek": 672,
+    "timeMonth": 533,
+    "timeYear": 520,
     "dailyMinutesDown": {}
   }
 ]

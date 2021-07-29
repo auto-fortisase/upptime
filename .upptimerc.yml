@@ -18,6 +18,12 @@ sites:
   - name: FortiSASE SIA Edge Japan (Tokyo)
     url: https://mgmt-fos001-region4.prod.fortisase.com:10443/
     __dangerous__insecure: true
+  - name: FortiSASE SIA Edge Germany (Frankfurt)
+    url: https://mgmt-fos001-region5.prod.fortisase.com:10443/
+    __dangerous__insecure: true
+  - name: FortiSASE SIA Edge UK (London)
+    url: https://mgmt-fos001-region6.prod.fortisase.com:10443/
+    __dangerous__insecure: true
   - name: FortiStack API Canada West (Vancouver)
     url: https://fortistackapi-nova-west.fortisase.com:5000/v3
   - name: FortiStack API Canada East (Ottawa)
@@ -26,6 +32,10 @@ sites:
     url: https://fortistackapi-nova-fr.fortisase.com:5000/v3
   - name: FortiStack API Japan (Tokyo)
     url: https://fortistackapi-nova-jp.fortisase.com:5000/v3
+  - name: FortiStack API Germany (Frankfurt)
+    url: https://fortistackapi-de-fr7.fortisase.com:5000/v3
+  - name: FortiStack API UK (London)
+    url: https://fortistackapi-uk-ld9.fortisase.com:5000/v3
   #- name: THIS IS A TEST
   #  url: https://down.fortisase.com/
 

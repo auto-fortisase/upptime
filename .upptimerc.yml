@@ -45,7 +45,7 @@ sites:
   - name: FortiStack API US West (San Jose)
     url: https://fortistackapi-us-sv10.fortisase.com:5000/v3
   - name: FortiStack API US East (Ashburn)
-    url: https://fortistackapi-us-dc.fortisase.com:5000/v3
+    url: https://fortistackapi-us-dc11.fortisase.com:5000/v3
   #- name: THIS IS A TEST
   #  url: https://down.fortisase.com/
 

@@ -24,6 +24,12 @@ sites:
   - name: FortiSASE SIA Edge UK (London)
     url: https://mgmt-fos001-region6.prod.fortisase.com:10443/
     __dangerous__insecure: true
+  - name: FortiSASE SIA Edge US West (San Jose)
+    url: https://mgmt-fos001-region7.prod.fortisase.com:10443/
+    __dangerous__insecure: true
+  - name: FortiSASE SIA Edge US East (Ashburn)
+    url: https://mgmt-fos001-region8.prod.fortisase.com:10443/
+    __dangerous__insecure: true
   - name: FortiStack API Canada West (Vancouver)
     url: https://fortistackapi-nova-west.fortisase.com:5000/v3
   - name: FortiStack API Canada East (Ottawa)
@@ -36,6 +42,10 @@ sites:
     url: https://fortistackapi-de-fr7.fortisase.com:5000/v3
   - name: FortiStack API UK (London)
     url: https://fortistackapi-uk-ld9.fortisase.com:5000/v3
+  - name: FortiStack API US West (San Jose)
+    url: https://fortistackapi-us-sv10.fortisase.com:5000/v3
+  - name: FortiStack API US East (Ashburn)
+    url: https://fortistackapi-us-dc11.fortisase.com:5000/v3
   #- name: THIS IS A TEST
   #  url: https://down.fortisase.com/
 

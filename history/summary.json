@@ -301,18 +301,16 @@
     "icon": "https://favicons.githubusercontent.com/fortistackapi-us-dc11.fortisase.com",
     "slug": "forti-stack-api-us-east-ashburn",
     "status": "up",
-    "uptime": "31.20%",
-    "uptimeDay": "31.20%",
-    "uptimeWeek": "31.20%",
-    "uptimeMonth": "31.20%",
-    "uptimeYear": "31.20%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 300,
     "timeDay": 300,
     "timeWeek": 300,
     "timeMonth": 300,
     "timeYear": 300,
-    "dailyMinutesDown": {
-      "2021-08-03": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]

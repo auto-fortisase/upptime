@@ -58,7 +58,9 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/auto-fortisase/upptime/master/assets/icons/fortinet.png
   name: FortiSASE SIA Status
   introTitle: "**FortiSASE SIA** services status"
-  introMessage: This is a service status page which uses **real-time** data to display service status.
+  introMessage: |
+    This is a service status page which uses **real-time** data to display service status.
+    FortiSASE SIA will upgrade to the 21.3.8 release on August 16th starting at 11:00am PDT. Sites may experience a brief interruption during upgrade.
   navbar:
     - title: Status
       href: /

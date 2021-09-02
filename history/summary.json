@@ -94,19 +94,19 @@
     "url": "https://mgmt-fos001-region5.prod.fortisase.com:10443/",
     "icon": "https://favicons.githubusercontent.com/mgmt-fos001-region5.prod.fortisase.com",
     "slug": "forti-sase-sia-edge-germany-frankfurt",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 868,
-    "timeDay": 593,
-    "timeWeek": 801,
-    "timeMonth": 879,
-    "timeYear": 868,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 870,
+    "timeDay": 782,
+    "timeWeek": 822,
+    "timeMonth": 881,
+    "timeYear": 870,
     "dailyMinutesDown": {
-      "2021-09-02": 1
+      "2021-09-02": 12
     }
   },
   {
@@ -242,19 +242,19 @@
     "url": "https://fortistackapi-de-fr7.fortisase.com:5000/v3",
     "icon": "https://favicons.githubusercontent.com/fortistackapi-de-fr7.fortisase.com",
     "slug": "forti-stack-api-germany-frankfurt",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 483,
-    "timeDay": 339,
-    "timeWeek": 451,
-    "timeMonth": 484,
-    "timeYear": 483,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 484,
+    "timeDay": 439,
+    "timeWeek": 462,
+    "timeMonth": 485,
+    "timeYear": 484,
     "dailyMinutesDown": {
-      "2021-09-02": 0
+      "2021-09-02": 12
     }
   },
   {

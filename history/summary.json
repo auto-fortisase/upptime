@@ -94,10 +94,10 @@
     "url": "https://mgmt-fos001-region5.prod.fortisase.com:10443/",
     "icon": "https://favicons.githubusercontent.com/mgmt-fos001-region5.prod.fortisase.com",
     "slug": "forti-sase-sia-edge-germany-frankfurt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 868,
@@ -105,7 +105,9 @@
     "timeWeek": 801,
     "timeMonth": 879,
     "timeYear": 868,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-02": 1
+    }
   },
   {
     "name": "FortiSASE SIA Edge UK (London)",
@@ -240,9 +242,9 @@
     "url": "https://fortistackapi-de-fr7.fortisase.com:5000/v3",
     "icon": "https://favicons.githubusercontent.com/fortistackapi-de-fr7.fortisase.com",
     "slug": "forti-stack-api-germany-frankfurt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -251,7 +253,9 @@
     "timeWeek": 451,
     "timeMonth": 484,
     "timeYear": 483,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-02": 0
+    }
   },
   {
     "name": "FortiStack API UK (London)",

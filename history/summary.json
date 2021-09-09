@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 852,
     "timeDay": 986,
-    "timeWeek": 773,
+    "timeWeek": 744,
     "timeMonth": 850,
     "timeYear": 852,
     "dailyMinutesDown": {}
@@ -184,9 +184,9 @@
     "url": "https://fortistackapi-nova-east.fortisase.com:5000/v3",
     "icon": "https://favicons.githubusercontent.com/fortistackapi-nova-east.fortisase.com",
     "slug": "forti-stack-api-canada-east-ottawa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -195,7 +195,9 @@
     "timeWeek": 184,
     "timeMonth": 211,
     "timeYear": 262,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-09": 0
+    }
   },
   {
     "name": "FortiStack API France (Valbonne)",
@@ -248,7 +250,7 @@
     "uptimeYear": "100.00%",
     "time": 471,
     "timeDay": 528,
-    "timeWeek": 416,
+    "timeWeek": 399,
     "timeMonth": 466,
     "timeYear": 471,
     "dailyMinutesDown": {}

@@ -58,19 +58,19 @@
     "url": "https://mgmt-fos001-region3.prod.fortisase.com:10443/",
     "icon": "https://favicons.githubusercontent.com/mgmt-fos001-region3.prod.fortisase.com",
     "slug": "forti-sase-sia-edge-france-valbonne",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 849,
-    "timeDay": 952,
-    "timeWeek": 810,
-    "timeMonth": 817,
-    "timeYear": 849,
+    "time": 850,
+    "timeDay": 957,
+    "timeWeek": 829,
+    "timeMonth": 822,
+    "timeYear": 850,
     "dailyMinutesDown": {
-      "2021-09-20": 1
+      "2021-09-20": 16
     }
   },
   {

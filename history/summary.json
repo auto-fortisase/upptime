@@ -58,10 +58,10 @@
     "url": "https://mgmt-fos001-region3.prod.fortisase.com:10443/",
     "icon": "https://favicons.githubusercontent.com/mgmt-fos001-region3.prod.fortisase.com",
     "slug": "forti-sase-sia-edge-france-valbonne",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 849,
@@ -69,7 +69,9 @@
     "timeWeek": 810,
     "timeMonth": 817,
     "timeYear": 849,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-20": 1
+    }
   },
   {
     "name": "FortiSASE SIA Edge Japan (Tokyo)",

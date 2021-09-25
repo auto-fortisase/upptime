@@ -132,19 +132,19 @@
     "url": "https://mgmt-fos001-region7.prod.fortisase.com:10443/",
     "icon": "https://favicons.githubusercontent.com/mgmt-fos001-region7.prod.fortisase.com",
     "slug": "forti-sase-sia-edge-us-west-san-jose",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 311,
-    "timeDay": 478,
-    "timeWeek": 276,
-    "timeMonth": 335,
-    "timeYear": 311,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 313,
+    "timeDay": 470,
+    "timeWeek": 299,
+    "timeMonth": 339,
+    "timeYear": 313,
     "dailyMinutesDown": {
-      "2021-09-25": 0
+      "2021-09-25": 24
     }
   },
   {

@@ -116,10 +116,10 @@
     "url": "https://mgmt-fos001-region6.prod.fortisase.com:10443/",
     "icon": "https://favicons.githubusercontent.com/mgmt-fos001-region6.prod.fortisase.com",
     "slug": "forti-sase-sia-edge-uk-london",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 736,
@@ -127,7 +127,9 @@
     "timeWeek": 823,
     "timeMonth": 748,
     "timeYear": 736,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-22": 1
+    }
   },
   {
     "name": "FortiSASE SIA Edge US West (San Jose)",

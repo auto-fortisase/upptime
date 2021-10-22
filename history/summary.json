@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 271,
-    "timeDay": 186,
-    "timeWeek": 245,
-    "timeMonth": 227,
+    "timeDay": 271,
+    "timeWeek": 258,
+    "timeMonth": 226,
     "timeYear": 271,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 361,
-    "timeDay": 109,
-    "timeWeek": 224,
-    "timeMonth": 251,
-    "timeYear": 361,
+    "time": 360,
+    "timeDay": 91,
+    "timeWeek": 211,
+    "timeMonth": 248,
+    "timeYear": 360,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 370,
-    "timeDay": 429,
-    "timeWeek": 426,
-    "timeMonth": 355,
+    "timeDay": 529,
+    "timeWeek": 440,
+    "timeMonth": 358,
     "timeYear": 370,
     "dailyMinutesDown": {
       "2021-10-09": 53
@@ -68,8 +68,8 @@
     "uptimeYear": "100.00%",
     "time": 851,
     "timeDay": 975,
-    "timeWeek": 924,
-    "timeMonth": 864,
+    "timeWeek": 920,
+    "timeMonth": 865,
     "timeYear": 851,
     "dailyMinutesDown": {
       "2021-09-20": 16
@@ -87,8 +87,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 853,
-    "timeDay": 715,
-    "timeWeek": 776,
+    "timeDay": 589,
+    "timeWeek": 764,
     "timeMonth": 761,
     "timeYear": 853,
     "dailyMinutesDown": {}
@@ -99,19 +99,17 @@
     "icon": "https://favicons.githubusercontent.com/mgmt-fos001-region5.prod.fortisase.com",
     "slug": "forti-sase-sia-edge-germany-frankfurt",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 867,
-    "timeDay": 2488,
-    "timeWeek": 1290,
-    "timeMonth": 940,
-    "timeYear": 867,
-    "dailyMinutesDown": {
-      "2021-10-21": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 869,
+    "timeDay": 2529,
+    "timeWeek": 1296,
+    "timeMonth": 941,
+    "timeYear": 869,
+    "dailyMinutesDown": {}
   },
   {
     "name": "FortiSASE SIA Edge UK (London)",
@@ -124,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 734,
-    "timeDay": 876,
-    "timeWeek": 821,
+    "time": 736,
+    "timeDay": 878,
+    "timeWeek": 823,
     "timeMonth": 748,
-    "timeYear": 734,
+    "timeYear": 736,
     "dailyMinutesDown": {}
   },
   {
@@ -142,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 311,
-    "timeDay": 180,
-    "timeWeek": 281,
-    "timeMonth": 307,
-    "timeYear": 311,
+    "time": 310,
+    "timeDay": 181,
+    "timeWeek": 284,
+    "timeMonth": 306,
+    "timeYear": 310,
     "dailyMinutesDown": {
       "2021-09-25": 24
     }
@@ -162,11 +160,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 317,
-    "timeDay": 459,
-    "timeWeek": 414,
-    "timeMonth": 329,
-    "timeYear": 317,
+    "time": 319,
+    "timeDay": 491,
+    "timeWeek": 419,
+    "timeMonth": 330,
+    "timeYear": 319,
     "dailyMinutesDown": {}
   },
   {
@@ -181,9 +179,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 257,
-    "timeDay": 85,
-    "timeWeek": 140,
-    "timeMonth": 152,
+    "timeDay": 94,
+    "timeWeek": 141,
+    "timeMonth": 153,
     "timeYear": 257,
     "dailyMinutesDown": {}
   },
@@ -199,9 +197,9 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.76%",
     "time": 261,
-    "timeDay": 280,
-    "timeWeek": 252,
-    "timeMonth": 199,
+    "timeDay": 306,
+    "timeWeek": 251,
+    "timeMonth": 202,
     "timeYear": 261,
     "dailyMinutesDown": {
       "2021-10-09": 53,
@@ -222,9 +220,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 487,
-    "timeDay": 527,
+    "timeDay": 510,
     "timeWeek": 499,
-    "timeMonth": 462,
+    "timeMonth": 461,
     "timeYear": 487,
     "dailyMinutesDown": {}
   },
@@ -239,11 +237,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 478,
-    "timeDay": 394,
-    "timeWeek": 408,
-    "timeMonth": 400,
-    "timeYear": 478,
+    "time": 477,
+    "timeDay": 323,
+    "timeWeek": 405,
+    "timeMonth": 399,
+    "timeYear": 477,
     "dailyMinutesDown": {
       "2021-08-27": 44
     }
@@ -259,11 +257,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 460,
-    "timeDay": 502,
-    "timeWeek": 491,
+    "time": 461,
+    "timeDay": 535,
+    "timeWeek": 493,
     "timeMonth": 460,
-    "timeYear": 460,
+    "timeYear": 461,
     "dailyMinutesDown": {}
   },
   {
@@ -277,11 +275,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 411,
-    "timeDay": 497,
-    "timeWeek": 451,
-    "timeMonth": 413,
-    "timeYear": 411,
+    "time": 412,
+    "timeDay": 456,
+    "timeWeek": 447,
+    "timeMonth": 412,
+    "timeYear": 412,
     "dailyMinutesDown": {}
   },
   {
@@ -295,11 +293,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 197,
-    "timeDay": 140,
+    "time": 196,
+    "timeDay": 111,
     "timeWeek": 187,
     "timeMonth": 191,
-    "timeYear": 197,
+    "timeYear": 196,
     "dailyMinutesDown": {
       "2021-09-07": 23
     }
@@ -315,11 +313,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 202,
-    "timeDay": 298,
-    "timeWeek": 245,
+    "time": 203,
+    "timeDay": 287,
+    "timeWeek": 250,
     "timeMonth": 205,
-    "timeYear": 202,
+    "timeYear": 203,
     "dailyMinutesDown": {}
   }
 ]

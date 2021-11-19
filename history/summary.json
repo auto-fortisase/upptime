@@ -22,19 +22,19 @@
     "url": "https://mgmt-fos001-region1.prod.fortisase.com:10443/",
     "icon": "https://favicons.githubusercontent.com/mgmt-fos001-region1.prod.fortisase.com",
     "slug": "forti-sase-sia-edge-canada-west-vancouver",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 347,
-    "timeDay": 127,
-    "timeWeek": 148,
-    "timeMonth": 204,
+    "timeDay": 306,
+    "timeWeek": 190,
+    "timeMonth": 212,
     "timeYear": 347,
     "dailyMinutesDown": {
-      "2021-11-19": 0
+      "2021-11-19": 24
     }
   },
   {

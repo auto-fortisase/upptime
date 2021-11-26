@@ -25,12 +25,12 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 345,
     "timeDay": 524,
-    "timeWeek": 264,
+    "timeWeek": 232,
     "timeMonth": 210,
     "timeYear": 345,
     "dailyMinutesDown": {
@@ -42,10 +42,10 @@
     "url": "https://mgmt-fos001-region2.prod.fortisase.com:10443/",
     "icon": "https://favicons.githubusercontent.com/mgmt-fos001-region2.prod.fortisase.com",
     "slug": "forti-sase-sia-edge-canada-east-ottawa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 375,
@@ -54,6 +54,7 @@
     "timeMonth": 427,
     "timeYear": 375,
     "dailyMinutesDown": {
+      "2021-11-26": 1,
       "2021-10-09": 53
     }
   },

@@ -160,19 +160,19 @@
     "url": "https://mgmt-fos001-region8.prod.fortisase.com:10443/",
     "icon": "https://favicons.githubusercontent.com/mgmt-fos001-region8.prod.fortisase.com",
     "slug": "forti-sase-sia-edge-us-east-ashburn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 491,
-    "timeWeek": 350,
-    "timeMonth": 392,
-    "timeYear": 347,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 348,
+    "timeDay": 476,
+    "timeWeek": 364,
+    "timeMonth": 394,
+    "timeYear": 348,
     "dailyMinutesDown": {
-      "2021-12-14": 0
+      "2021-12-14": 13
     }
   },
   {

@@ -51,7 +51,7 @@
     "time": 376,
     "timeDay": 186,
     "timeWeek": 342,
-    "timeMonth": 395,
+    "timeMonth": 402,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2021-10-09": 53
@@ -205,7 +205,7 @@
     "time": 256,
     "timeDay": 138,
     "timeWeek": 185,
-    "timeMonth": 222,
+    "timeMonth": 224,
     "timeYear": 256,
     "dailyMinutesDown": {
       "2021-10-09": 53,
@@ -219,19 +219,19 @@
     "url": "https://fortistackapi-nova-fr.fortisase.com:5000/v3",
     "icon": "https://favicons.githubusercontent.com/fortistackapi-nova-fr.fortisase.com",
     "slug": "forti-stack-api-france-valbonne",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "90.97%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.97%",
     "time": 488,
-    "timeDay": 330,
-    "timeWeek": 435,
-    "timeMonth": 489,
+    "timeDay": 428,
+    "timeWeek": 446,
+    "timeMonth": 490,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2021-12-15": 0
+      "2021-12-15": 130
     }
   },
   {

@@ -167,7 +167,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 346,
-    "timeDay": 266,
+    "timeDay": 72,
     "timeWeek": 312,
     "timeMonth": 380,
     "timeYear": 346,
@@ -219,9 +219,9 @@
     "url": "https://fortistackapi-nova-fr.fortisase.com:5000/v3",
     "icon": "https://favicons.githubusercontent.com/fortistackapi-nova-fr.fortisase.com",
     "slug": "forti-stack-api-france-valbonne",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -230,7 +230,9 @@
     "timeWeek": 435,
     "timeMonth": 489,
     "timeYear": 488,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-15": 0
+    }
   },
   {
     "name": "FortiStack API Japan (Tokyo)",

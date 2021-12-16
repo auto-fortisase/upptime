@@ -260,9 +260,9 @@
     "url": "https://fortistackapi-de-fr7.fortisase.com:5000/v3",
     "icon": "https://favicons.githubusercontent.com/fortistackapi-de-fr7.fortisase.com",
     "slug": "forti-stack-api-germany-frankfurt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -271,7 +271,9 @@
     "timeWeek": 435,
     "timeMonth": 480,
     "timeYear": 485,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-16": 0
+    }
   },
   {
     "name": "FortiStack API UK (London)",

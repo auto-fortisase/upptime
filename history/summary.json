@@ -260,19 +260,19 @@
     "url": "https://fortistackapi-de-fr7.fortisase.com:5000/v3",
     "icon": "https://favicons.githubusercontent.com/fortistackapi-de-fr7.fortisase.com",
     "slug": "forti-stack-api-germany-frankfurt",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 485,
-    "timeDay": 397,
-    "timeWeek": 435,
-    "timeMonth": 480,
-    "timeYear": 485,
+    "time": 484,
+    "timeDay": 401,
+    "timeWeek": 432,
+    "timeMonth": 478,
+    "timeYear": 484,
     "dailyMinutesDown": {
-      "2021-12-16": 0
+      "2021-12-16": 8
     }
   },
   {

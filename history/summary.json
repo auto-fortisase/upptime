@@ -124,12 +124,12 @@
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 757,
     "timeDay": 928,
     "timeWeek": 676,
-    "timeMonth": 769,
+    "timeMonth": 765,
     "timeYear": 757,
     "dailyMinutesDown": {
       "2021-11-18": 52
@@ -178,9 +178,9 @@
     "url": "https://fortistackapi-nova-west.fortisase.com:5000/v3",
     "icon": "https://favicons.githubusercontent.com/fortistackapi-nova-west.fortisase.com",
     "slug": "forti-stack-api-canada-west-vancouver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -189,7 +189,9 @@
     "timeWeek": 196,
     "timeMonth": 146,
     "timeYear": 235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-18": 0
+    }
   },
   {
     "name": "FortiStack API Canada East (Ottawa)",

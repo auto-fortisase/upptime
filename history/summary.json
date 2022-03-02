@@ -179,9 +179,9 @@
     "url": "https://fortistackapi-nova-west.fortisase.com:5000/v3",
     "icon": "https://favicons.githubusercontent.com/fortistackapi-nova-west.fortisase.com",
     "slug": "forti-stack-api-canada-west-vancouver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.88%",
@@ -191,6 +191,7 @@
     "timeMonth": 303,
     "timeYear": 228,
     "dailyMinutesDown": {
+      "2022-03-02": 0,
       "2022-02-05": 238,
       "2021-12-19": 228,
       "2021-12-18": 188

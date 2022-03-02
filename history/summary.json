@@ -228,9 +228,9 @@
     "url": "https://fortistackapi-nova-fr.fortisase.com:5000/v3",
     "icon": "https://favicons.githubusercontent.com/fortistackapi-nova-fr.fortisase.com",
     "slug": "forti-stack-api-france-valbonne",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -240,6 +240,7 @@
     "timeMonth": 491,
     "timeYear": 492,
     "dailyMinutesDown": {
+      "2022-03-02": 0,
       "2021-12-15": 130
     }
   },

@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/portal.prod.fortisase.com",
     "slug": "forti-sase-sia-cloud",
     "status": "down",
-    "uptime": "99.47%",
+    "uptime": "99.32%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "64.15%",
-    "uptimeMonth": "91.75%",
-    "uptimeYear": "99.31%",
+    "uptimeWeek": "53.52%",
+    "uptimeMonth": "89.30%",
+    "uptimeYear": "99.11%",
     "time": 251,
     "timeDay": 0,
     "timeWeek": 207,
     "timeMonth": 245,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2022-05-09": 45,
+      "2022-05-09": 1116,
       "2022-05-08": 1440,
       "2022-05-07": 1440,
       "2022-05-06": 689
@@ -110,9 +110,9 @@
     "url": "https://mgmt-fos001-region5.prod.fortisase.com:10443/",
     "icon": "https://favicons.githubusercontent.com/mgmt-fos001-region5.prod.fortisase.com",
     "slug": "forti-sase-sia-edge-germany-frankfurt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -121,7 +121,9 @@
     "timeWeek": 866,
     "timeMonth": 789,
     "timeYear": 881,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-09": 0
+    }
   },
   {
     "name": "FortiSASE SIA Edge UK (London)",

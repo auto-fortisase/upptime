@@ -1,7 +1,7 @@
 url: https://fortistackapi-nova-west.fortisase.com:5000/v3
-status: down
-code: 502
-responseTime: 2285
-lastUpdated: 2022-05-18T13:55:09.523Z
+status: up
+code: 200
+responseTime: 308
+lastUpdated: 2022-05-18T14:14:18.104Z
 startTime: Mon Feb 22 2021 20:34:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

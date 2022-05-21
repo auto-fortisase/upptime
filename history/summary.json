@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "97.74%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "49.05%",
+    "uptimeWeek": "49.15%",
     "uptimeMonth": "63.60%",
     "uptimeYear": "96.97%",
     "time": 243,
@@ -97,9 +97,9 @@
     "url": "https://mgmt-fos001-region4.prod.fortisase.com:10443/",
     "icon": "https://favicons.githubusercontent.com/mgmt-fos001-region4.prod.fortisase.com",
     "slug": "forti-sase-sia-edge-japan-tokyo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -109,6 +109,7 @@
     "timeMonth": 895,
     "timeYear": 794,
     "dailyMinutesDown": {
+      "2022-05-21": 0,
       "2022-05-06": 23,
       "2022-03-26": 16,
       "2021-11-13": 18

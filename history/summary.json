@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "97.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.99%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "63.60%",
     "uptimeYear": "96.97%",
     "time": 242,
@@ -316,9 +316,9 @@
     "url": "https://fortistackapi-uk-ld9.fortisase.com:5000/v3",
     "icon": "https://favicons.githubusercontent.com/fortistackapi-uk-ld9.fortisase.com",
     "slug": "forti-stack-api-uk-london",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -327,7 +327,9 @@
     "timeWeek": 354,
     "timeMonth": 392,
     "timeYear": 418,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-24": 0
+    }
   },
   {
     "name": "FortiStack API US West (San Jose)",

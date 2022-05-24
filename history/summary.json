@@ -316,19 +316,19 @@
     "url": "https://fortistackapi-uk-ld9.fortisase.com:5000/v3",
     "icon": "https://favicons.githubusercontent.com/fortistackapi-uk-ld9.fortisase.com",
     "slug": "forti-stack-api-uk-london",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.14%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
     "time": 418,
-    "timeDay": 461,
-    "timeWeek": 354,
+    "timeDay": 429,
+    "timeWeek": 360,
     "timeMonth": 392,
     "timeYear": 418,
     "dailyMinutesDown": {
-      "2022-05-24": 0
+      "2022-05-24": 56
     }
   },
   {

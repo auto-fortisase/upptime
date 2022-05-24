@@ -65,7 +65,7 @@
     "timeDay": 0,
     "timeWeek": 296,
     "timeMonth": 345,
-    "timeYear": 379,
+    "timeYear": 380,
     "dailyMinutesDown": {
       "2022-05-11": 17,
       "2022-01-07": 82,
@@ -87,7 +87,7 @@
     "timeDay": 0,
     "timeWeek": 735,
     "timeMonth": 792,
-    "timeYear": 889,
+    "timeYear": 890,
     "dailyMinutesDown": {
       "2021-09-20": 16
     }
@@ -107,7 +107,7 @@
     "timeDay": 0,
     "timeWeek": 850,
     "timeMonth": 883,
-    "timeYear": 794,
+    "timeYear": 793,
     "dailyMinutesDown": {
       "2022-05-21": 80,
       "2022-05-06": 23,
@@ -316,19 +316,19 @@
     "url": "https://fortistackapi-uk-ld9.fortisase.com:5000/v3",
     "icon": "https://favicons.githubusercontent.com/fortistackapi-uk-ld9.fortisase.com",
     "slug": "forti-stack-api-uk-london",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "96.12%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.99%",
-    "time": 418,
-    "timeDay": 397,
-    "timeWeek": 366,
-    "timeMonth": 392,
-    "timeYear": 418,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "95.14%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.98%",
+    "time": 417,
+    "timeDay": 353,
+    "timeWeek": 359,
+    "timeMonth": 389,
+    "timeYear": 417,
     "dailyMinutesDown": {
-      "2022-05-24": 56
+      "2022-05-24": 70
     }
   },
   {

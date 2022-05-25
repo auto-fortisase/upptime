@@ -5,7 +5,7 @@
     "icon": "https://favicons.githubusercontent.com/portal.prod.fortisase.com",
     "slug": "forti-sase-sia-cloud",
     "status": "up",
-    "uptime": "97.75%",
+    "uptime": "97.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "63.60%",
@@ -317,18 +317,18 @@
     "icon": "https://favicons.githubusercontent.com/fortistackapi-uk-ld9.fortisase.com",
     "slug": "forti-stack-api-uk-london",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "95.14%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "96.14%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
     "time": 417,
     "timeDay": 353,
     "timeWeek": 359,
     "timeMonth": 389,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2022-05-24": 70
+      "2022-05-24": 56
     }
   },
   {

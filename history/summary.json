@@ -358,9 +358,9 @@
     "url": "https://fortistackapi-us-dc11.fortisase.com:5000/v3",
     "icon": "https://favicons.githubusercontent.com/fortistackapi-us-dc11.fortisase.com",
     "slug": "forti-stack-api-us-east-ashburn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -370,6 +370,7 @@
     "timeMonth": 173,
     "timeYear": 208,
     "dailyMinutesDown": {
+      "2022-06-05": 0,
       "2021-10-22": 27
     }
   }

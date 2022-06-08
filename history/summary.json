@@ -8,7 +8,7 @@
     "uptime": "97.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "68.56%",
+    "uptimeMonth": "70.88%",
     "uptimeYear": "96.97%",
     "time": 238,
     "timeDay": 313,
@@ -160,10 +160,10 @@
     "url": "https://mgmt-fos001-region7.prod.fortisase.com:10443/",
     "icon": "https://favicons.githubusercontent.com/mgmt-fos001-region7.prod.fortisase.com",
     "slug": "forti-sase-sia-edge-us-west-san-jose",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.97%",
     "time": 288,
@@ -172,6 +172,7 @@
     "timeMonth": 289,
     "timeYear": 288,
     "dailyMinutesDown": {
+      "2022-06-08": 1,
       "2022-05-12": 115,
       "2021-09-25": 24
     }
@@ -338,10 +339,10 @@
     "url": "https://fortistackapi-us-sv10.fortisase.com:5000/v3",
     "icon": "https://favicons.githubusercontent.com/fortistackapi-us-sv10.fortisase.com",
     "slug": "forti-stack-api-us-west-san-jose",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 185,
@@ -350,6 +351,7 @@
     "timeMonth": 196,
     "timeYear": 185,
     "dailyMinutesDown": {
+      "2022-06-08": 1,
       "2021-09-07": 23
     }
   },

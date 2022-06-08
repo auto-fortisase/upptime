@@ -1,7 +1,7 @@
 url: https://mgmt-fos001-region7.prod.fortisase.com:10443/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-06-08T17:40:25.177Z
+status: up
+code: 200
+responseTime: 298
+lastUpdated: 2022-06-08T18:39:09.739Z
 startTime: Tue Aug 03 2021 22:28:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

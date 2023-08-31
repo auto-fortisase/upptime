@@ -4,19 +4,19 @@
     "url": "https://portal.prod.fortisase.com/",
     "icon": "https://icons.duckduckgo.com/ip3/portal.prod.fortisase.com.ico",
     "slug": "forti-sase-sia-cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "98.31%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "97.74%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 298,
-    "timeDay": 303,
-    "timeWeek": 298,
-    "timeMonth": 273,
+    "timeDay": 297,
+    "timeWeek": 297,
+    "timeMonth": 274,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2023-08-31": 24,
+      "2023-08-31": 32,
       "2023-08-15": 16,
       "2022-11-17": 22
     }
@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-31": 212,
+      "2023-08-31": 228,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -422,7 +422,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-31": 212,
+      "2023-08-31": 228,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -806,7 +806,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-31": 212,
+      "2023-08-31": 228,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -1190,7 +1190,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-31": 212,
+      "2023-08-31": 228,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -1574,7 +1574,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-31": 212,
+      "2023-08-31": 228,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -1947,7 +1947,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mgmt-fos001-region6.prod.fortisase.com.ico",
     "slug": "forti-sase-sia-edge-uk-london",
     "status": "down",
-    "uptime": "45.54%",
+    "uptime": "45.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1958,7 +1958,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-31": 212,
+      "2023-08-31": 228,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -2342,7 +2342,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-31": 212,
+      "2023-08-31": 228,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -2726,7 +2726,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-31": 212,
+      "2023-08-31": 228,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -3110,7 +3110,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-31": 212,
+      "2023-08-31": 228,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -3494,7 +3494,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-31": 212,
+      "2023-08-31": 228,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -3878,7 +3878,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-31": 212,
+      "2023-08-31": 228,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -4262,7 +4262,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-31": 212,
+      "2023-08-31": 228,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -4646,7 +4646,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-31": 212,
+      "2023-08-31": 228,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -5030,7 +5030,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-31": 212,
+      "2023-08-31": 228,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -5403,7 +5403,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fortistackapi-us-sv10.fortisase.com.ico",
     "slug": "forti-stack-api-us-west-san-jose",
     "status": "down",
-    "uptime": "45.44%",
+    "uptime": "45.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -5414,7 +5414,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-31": 212,
+      "2023-08-31": 228,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -5798,7 +5798,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-31": 212,
+      "2023-08-31": 228,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,

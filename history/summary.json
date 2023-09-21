@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.97%",
-    "time": 309,
-    "timeDay": 316,
-    "timeWeek": 242,
-    "timeMonth": 397,
+    "time": 310,
+    "timeDay": 385,
+    "timeWeek": 243,
+    "timeMonth": 402,
     "timeYear": 317,
     "dailyMinutesDown": {
       "2023-09-11": 16,
@@ -30,18 +30,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mgmt-fos001-region1.prod.fortisase.com.ico",
     "slug": "forti-sase-sia-edge-canada-west-vancouver",
     "status": "down",
-    "uptime": "55.60%",
+    "uptime": "55.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 396,
+    "time": 398,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-20": 35,
+      "2023-09-21": 34,
+      "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
@@ -404,8 +405,7 @@
       "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
-      "2022-09-22": 1440,
-      "2022-09-21": 1440
+      "2022-09-22": 1440
     }
   },
   {
@@ -414,18 +414,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mgmt-fos001-region2.prod.fortisase.com.ico",
     "slug": "forti-sase-sia-edge-canada-east-ottawa",
     "status": "down",
-    "uptime": "55.60%",
+    "uptime": "55.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 320,
+    "time": 317,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-20": 35,
+      "2023-09-21": 34,
+      "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
@@ -788,8 +789,7 @@
       "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
-      "2022-09-22": 1440,
-      "2022-09-21": 1440
+      "2022-09-22": 1440
     }
   },
   {
@@ -798,18 +798,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mgmt-fos001-region3.prod.fortisase.com.ico",
     "slug": "forti-sase-sia-edge-france-valbonne",
     "status": "down",
-    "uptime": "55.63%",
+    "uptime": "55.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 707,
+    "time": 706,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-20": 35,
+      "2023-09-21": 34,
+      "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
@@ -1172,8 +1173,7 @@
       "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
-      "2022-09-22": 1440,
-      "2022-09-21": 1440
+      "2022-09-22": 1440
     }
   },
   {
@@ -1182,18 +1182,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mgmt-fos001-region4.prod.fortisase.com.ico",
     "slug": "forti-sase-sia-edge-japan-tokyo",
     "status": "down",
-    "uptime": "55.43%",
+    "uptime": "55.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 765,
+    "time": 764,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-20": 35,
+      "2023-09-21": 34,
+      "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
@@ -1556,8 +1557,7 @@
       "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
-      "2022-09-22": 1440,
-      "2022-09-21": 1440
+      "2022-09-22": 1440
     }
   },
   {
@@ -1566,18 +1566,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mgmt-fos001-region5.prod.fortisase.com.ico",
     "slug": "forti-sase-sia-edge-germany-frankfurt",
     "status": "down",
-    "uptime": "44.37%",
+    "uptime": "44.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 648,
+    "time": 646,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-20": 35,
+      "2023-09-21": 34,
+      "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
@@ -1940,8 +1941,7 @@
       "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
-      "2022-09-22": 1440,
-      "2022-09-21": 1440
+      "2022-09-22": 1440
     }
   },
   {
@@ -1950,18 +1950,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mgmt-fos001-region6.prod.fortisase.com.ico",
     "slug": "forti-sase-sia-edge-uk-london",
     "status": "down",
-    "uptime": "44.38%",
+    "uptime": "44.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 580,
+    "time": 575,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-20": 35,
+      "2023-09-21": 35,
+      "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
@@ -2324,8 +2325,7 @@
       "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
-      "2022-09-22": 1440,
-      "2022-09-21": 1440
+      "2022-09-22": 1440
     }
   },
   {
@@ -2334,7 +2334,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mgmt-fos001-region7.prod.fortisase.com.ico",
     "slug": "forti-sase-sia-edge-us-west-san-jose",
     "status": "down",
-    "uptime": "44.01%",
+    "uptime": "43.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2345,7 +2345,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-20": 35,
+      "2023-09-21": 35,
+      "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
@@ -2708,8 +2709,7 @@
       "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
-      "2022-09-22": 1440,
-      "2022-09-21": 1440
+      "2022-09-22": 1440
     }
   },
   {
@@ -2718,18 +2718,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mgmt-fos001-region8.prod.fortisase.com.ico",
     "slug": "forti-sase-sia-edge-us-east-ashburn",
     "status": "down",
-    "uptime": "44.02%",
+    "uptime": "43.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 206,
+    "time": 203,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-20": 35,
+      "2023-09-21": 35,
+      "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
@@ -3092,8 +3093,7 @@
       "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
-      "2022-09-22": 1440,
-      "2022-09-21": 1440
+      "2022-09-22": 1440
     }
   },
   {
@@ -3102,18 +3102,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fortistackapi-nova-west.fortisase.com.ico",
     "slug": "forti-stack-api-canada-west-vancouver",
     "status": "down",
-    "uptime": "53.71%",
+    "uptime": "53.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 283,
+    "time": 286,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-20": 35,
+      "2023-09-21": 35,
+      "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
@@ -3476,8 +3477,7 @@
       "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
-      "2022-09-22": 1440,
-      "2022-09-21": 1440
+      "2022-09-22": 1440
     }
   },
   {
@@ -3486,18 +3486,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fortistackapi-nova-east.fortisase.com.ico",
     "slug": "forti-stack-api-canada-east-ottawa",
     "status": "down",
-    "uptime": "55.53%",
+    "uptime": "55.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 210,
+    "time": 208,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-20": 35,
+      "2023-09-21": 35,
+      "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
@@ -3860,8 +3861,7 @@
       "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
-      "2022-09-22": 1440,
-      "2022-09-21": 1440
+      "2022-09-22": 1440
     }
   },
   {
@@ -3870,18 +3870,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fortistackapi-nova-fr.fortisase.com.ico",
     "slug": "forti-stack-api-france-valbonne",
     "status": "down",
-    "uptime": "55.61%",
+    "uptime": "55.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 462,
+    "time": 461,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-20": 35,
+      "2023-09-21": 35,
+      "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
@@ -4244,8 +4245,7 @@
       "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
-      "2022-09-22": 1440,
-      "2022-09-21": 1440
+      "2022-09-22": 1440
     }
   },
   {
@@ -4254,18 +4254,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fortistackapi-nova-jp.fortisase.com.ico",
     "slug": "forti-stack-api-japan-tokyo",
     "status": "down",
-    "uptime": "55.64%",
+    "uptime": "55.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 465,
+    "time": 464,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-20": 35,
+      "2023-09-21": 35,
+      "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
@@ -4628,8 +4629,7 @@
       "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
-      "2022-09-22": 1440,
-      "2022-09-21": 1440
+      "2022-09-22": 1440
     }
   },
   {
@@ -4638,18 +4638,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fortistackapi-de-fr7.fortisase.com.ico",
     "slug": "forti-stack-api-germany-frankfurt",
     "status": "down",
-    "uptime": "44.63%",
+    "uptime": "44.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 416,
+    "time": 415,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-20": 35,
+      "2023-09-21": 35,
+      "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
@@ -5012,8 +5013,7 @@
       "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
-      "2022-09-22": 1440,
-      "2022-09-21": 1440
+      "2022-09-22": 1440
     }
   },
   {
@@ -5022,18 +5022,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fortistackapi-uk-ld9.fortisase.com.ico",
     "slug": "forti-stack-api-uk-london",
     "status": "down",
-    "uptime": "44.62%",
+    "uptime": "44.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 375,
+    "time": 373,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-20": 35,
+      "2023-09-21": 35,
+      "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
@@ -5396,8 +5397,7 @@
       "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
-      "2022-09-22": 1440,
-      "2022-09-21": 1440
+      "2022-09-22": 1440
     }
   },
   {
@@ -5406,7 +5406,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fortistackapi-us-sv10.fortisase.com.ico",
     "slug": "forti-stack-api-us-west-san-jose",
     "status": "down",
-    "uptime": "44.27%",
+    "uptime": "44.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -5417,7 +5417,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-20": 35,
+      "2023-09-21": 35,
+      "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
@@ -5780,8 +5781,7 @@
       "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
-      "2022-09-22": 1440,
-      "2022-09-21": 1440
+      "2022-09-22": 1440
     }
   },
   {
@@ -5790,18 +5790,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fortistackapi-us-dc11.fortisase.com.ico",
     "slug": "forti-stack-api-us-east-ashburn",
     "status": "down",
-    "uptime": "44.27%",
+    "uptime": "44.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 159,
+    "time": 157,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-20": 35,
+      "2023-09-21": 35,
+      "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
@@ -6164,8 +6165,7 @@
       "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
-      "2022-09-22": 1440,
-      "2022-09-21": 1440
+      "2022-09-22": 1440
     }
   }
 ]

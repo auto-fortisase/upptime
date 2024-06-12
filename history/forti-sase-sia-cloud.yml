@@ -1,7 +1,7 @@
 url: https://portal.prod.fortisase.com/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-06-12T04:15:29.126Z
+status: up
+code: 200
+responseTime: 233
+lastUpdated: 2024-06-12T04:30:16.227Z
 startTime: 2021-01-16T19:03:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>

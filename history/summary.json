@@ -4,16 +4,16 @@
     "url": "https://portal.prod.fortisase.com/",
     "icon": "https://icons.duckduckgo.com/ip3/portal.prod.fortisase.com.ico",
     "slug": "forti-sase-sia-cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "97.10%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.90%",
+    "uptimeDay": "89.48%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.88%",
     "time": 327,
-    "timeDay": 130,
-    "timeWeek": 192,
-    "timeMonth": 218,
+    "timeDay": 146,
+    "timeWeek": 188,
+    "timeMonth": 216,
     "timeYear": 341,
     "dailyMinutesDown": {
       "2025-08-29": 292,
@@ -21,7 +21,7 @@
       "2025-12-11": 29,
       "2026-03-08": 36,
       "2026-06-30": 120,
-      "2026-07-21": 42
+      "2026-07-21": 151
     }
   },
   {
@@ -30,7 +30,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mgmt-fos001-region1.prod.fortisase.com.ico",
     "slug": "forti-sase-sia-edge-canada-west-vancouver",
     "status": "down",
-    "uptime": "26.99%",
+    "uptime": "26.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -41,7 +41,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 418,
+      "2026-07-21": 569,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -414,7 +414,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mgmt-fos001-region2.prod.fortisase.com.ico",
     "slug": "forti-sase-sia-edge-canada-east-ottawa",
     "status": "down",
-    "uptime": "26.99%",
+    "uptime": "26.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -425,7 +425,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 418,
+      "2026-07-21": 569,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -809,7 +809,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 418,
+      "2026-07-21": 570,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -1193,7 +1193,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 418,
+      "2026-07-21": 570,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -1577,7 +1577,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 418,
+      "2026-07-21": 570,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -1961,7 +1961,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 418,
+      "2026-07-21": 570,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -2345,7 +2345,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 418,
+      "2026-07-21": 570,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -2729,7 +2729,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 418,
+      "2026-07-21": 570,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -3113,7 +3113,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 418,
+      "2026-07-21": 570,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -3497,7 +3497,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 418,
+      "2026-07-21": 570,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -3881,7 +3881,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 418,
+      "2026-07-21": 570,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -4265,7 +4265,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 418,
+      "2026-07-21": 570,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -4649,7 +4649,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 418,
+      "2026-07-21": 570,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -5033,7 +5033,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 418,
+      "2026-07-21": 570,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -5417,7 +5417,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 418,
+      "2026-07-21": 570,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -5801,7 +5801,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 418,
+      "2026-07-21": 570,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
